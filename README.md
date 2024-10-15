@@ -9,7 +9,7 @@ Layout criado para fins de estudos (Desafio 02) na escola [**Vai Na Web**](https
 **Front-end:** HTML, SCSS
 
 
-:open_file_folder:[Acesso ao projeto](https://vercel.com/new/dalissrs-projects)
+:open_file_folder:[Acesso ao projeto](https://desafio02-vnw-wheat.vercel.app/)
 
 
 
