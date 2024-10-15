@@ -1,7 +1,7 @@
 # Site Campanha Outubro Rosa
  
 ## Referências:
-Layout criado para fins de estudos (Desafio 02) na escola [**Vai Na Web**](https://vainaweb.com.br/)
+Layout criado para fins de estudos (Desafio 02) no curso Desenvolvimento FullStack - Empower/ [**Vai Na Web**](https://vainaweb.com.br/)
  
  
 ## Stack utilizada:
